@@ -9,7 +9,7 @@
 ###  🌱 skills I've Experienced
 This list also includes things I'm studying :(
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,py,html,css,nodejs,c, cs,cpp,firebase,vue,git,github,linux,mysql,vscode,vim,figma,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,py,html,css,nodejs,c,cs,cpp,firebase,vue,git,github,linux,vscode,vim,figma,unity,)](https://skillicons.dev)
 
 <!---
 lovelovetrb/lovelovetrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
