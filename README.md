@@ -7,7 +7,7 @@
 - 🙏 Please come my web page -> [here](https://linktr.ee/kazuya236)
 
 ###  🌱 skills I've Experienced
-This list also includes things I'm studying :(
+This list also includes things I'm studying :)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,firebase,py,html,css,c,cs,cpp,vue,git,github,linux,vscode,vim,figma,unity,gcp,aws)](https://skillicons.dev)
 
