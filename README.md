@@ -9,7 +9,7 @@
 ##  🌱 skills I've Experienced
 This list also includes things I'm studying :)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,firebase,py,html,css,cs,cpp,git,github,linux,figma,unity,gcp,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,firebase,py,html,css,cs,cpp,git,github,unity,gcp,aws)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 |![](https://github-readme-stats-six-azure.vercel.app/api?username=bearone236&show_icons=true&count_private=true&theme=dark&hide_border=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bearone236&theme=dark)|
