@@ -5,6 +5,7 @@
 - 📗 I'm currently learning frontend skills
 - 🖥️ Japan Hackathon "Google Cloud Challenge 2022" Excellence Award
 - 🖥️ Japan Hackathon "Geek Caravan Hackathon@KANAZAWA " Excellence Award
+- 🖥️ Japan Hackathon "Geek Advance Hackathon" Corporate Award
 - 🙏 Please come my web page -> [here](https://linktr.ee/kazuya236)
 
 ##  🌱 skills I've Experienced
