@@ -6,7 +6,7 @@
 ##  🌱 skills I've Experienced
 This list also includes things I'm studying :)
 
-[![My Skills](https://skillicons.dev/icons?i=react,astro,vue,nextjs,remix,redux,js,ts,nestjs,vite,nodejs,express,prisma,jest,go,py,html,css,tailwind,materialui,cs,git,github,unity,vercel,gcp,aws,firebase,postgresql,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,astro,vue,nextjs,remix,electron,redux,js,ts,nestjs,vite,nodejs,express,prisma,jest,go,py,html,css,tailwind,materialui,cs,git,github,unity,vercel,gcp,aws,firebase,postgresql,mysql,docker)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 |![](https://github-readme-stats-six-azure.vercel.app/api?username=bearone236&show_icons=true&count_private=true&theme=dark&hide_border=true)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bearone236&theme=dark)|
