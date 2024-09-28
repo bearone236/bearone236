@@ -13,7 +13,4 @@ This list also includes things I'm studying :)
 | :---: | :---: |
 |![](https://github-readme-stats-six-azure.vercel.app/api/top-langs/?username=bearone236&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)|![](https://github-readme-streak-stats.herokuapp.com/?user=bearone236&theme=dark&hide_border=true)|
 
-<!---
-lovelovetrb/lovelovetrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://github-profile-trophy.vercel.app/?username=bearone236&theme=light)
