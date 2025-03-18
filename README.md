@@ -1,6 +1,5 @@
 ## 🧑🏻‍🎓 about Kazuya
 - 👋 Hi, I’m @bearone236
-- 🏫 University Students enrolled in Kaishi Professional University
 
 ##  🌱 skills I've Experienced
 This list also includes things I'm studying :)
